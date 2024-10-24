@@ -71,9 +71,9 @@ CLONE_DATABASE_URI = environ.get('CLONE_DATABASE_URI', "") # Necessary If clone 
 PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Username Without @ or without https://t.me/ and Bot Is Admin With Full Right.
 
 # Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+TGqBUP3rvd0xN2M1')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+4Kn0EtVom08zYjc9')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/howtoopnelink001/18')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+PRBY2Bzv_S9hODBl')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+Xv2XvVPmunVkNjU1')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/+wquJA39iX6o2ZmZl')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+AW7ZqFaHM5xjYWU9') # Support Chat Link Without https:// or @
 
 # True Or False
@@ -103,7 +103,7 @@ VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', '32e9a22f6dee68573f52
 # if verify second shortner is True then fill below url and api
 VERIFY_SND_SHORTLINK_URL = environ.get('VERIFY_SND_SHORTLINK_URL', '')
 VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', '')
-VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/howtoopnelink001/177')
+VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/dbxnxxzkzkz/354')
 
 # Shortlink Info
 SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', False))
